@@ -35,7 +35,7 @@ build-job:
   stage: build
   script:
     - echo "Hello, $GITLAB_USER_LOGIN!"
-    - echo ls
+    - ls
     - python3 source  
     - python3 manage.py makemigrations
     - python3 manage.py migrate
