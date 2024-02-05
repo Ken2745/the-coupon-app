@@ -27,14 +27,15 @@ build:
    #- apt -y install apt-utils
    - apt -y install net-tools python3.8 python3-pip mysql-client libmysqlclient-dev
    - apt -y upgrade
-   - python3 -m venv venv
-   - python3 source venv/bin/activate
-   - pip3 install -r requirements.txt
 
 build-job:
   stage: build
   script:
     - echo "Hello, $GITLAB_USER_LOGIN!"
+    - ls
+    - python3 -m venv venv
+    - python3 source venv/bin/activate
+    - pip3 install -r requirements.txt
     - ls
     - python3 source  
     - python3 manage.py makemigrations
