@@ -1,4 +1,4 @@
-# The Coupon App
+# The Coupon App Prototype
 
 The Coupon App is a safety-focused mobile platform disguised as a coupon application to discreetly provide access to safety resources and incident logging. A multi-component repository combining an Android client, a Django API server, and a minimal web interface.
 
@@ -88,3 +88,25 @@ Database
 
 This project was developed collaboratively. Team members contributed across frontend development, backend services, database design, AI integration, and CI/CD setup.
 Implemented user stories in Jira to mitigate development risks and organize tasks, actively leveraging Scrum meetings to drive application progress.
+
+<img width="365" height="848" alt="image" src="https://github.com/user-attachments/assets/6dc76a84-2886-4b3e-90b1-cc2b1d3faa7b" />
+<img width="365" height="839" alt="image" src="https://github.com/user-attachments/assets/2acf89a6-308b-4ba2-b9f2-feaaa2acad1d" />
+<img width="377" height="850" alt="image" src="https://github.com/user-attachments/assets/c6c932c1-29c9-44cb-9857-22c840f57c72" />
+<img width="377" height="850" alt="image" src="https://github.com/user-attachments/assets/eb2ec87c-6ef8-49db-bdee-af2cdabca224" />
+<img width="365" height="750" alt="image" src="https://github.com/user-attachments/assets/5772f61c-c225-403c-8286-161ba68da184" />
+<img width="365" height="750" alt="image" src="https://github.com/user-attachments/assets/c5f3b892-e544-4f8a-b941-52111d2cb88c" />
+<img width="371" height="762" alt="image" src="https://github.com/user-attachments/assets/b581f61a-a6e4-493c-836a-0d8caf51ea03" />
+<img width="366" height="752" alt="image" src="https://github.com/user-attachments/assets/c6d0a24b-e83c-4744-b2ae-0c0373f247e6" />
+<img width="365" height="750" alt="image" src="https://github.com/user-attachments/assets/b6c2fdb1-df64-47d3-801e-188f75641454" />
+<img width="365" height="750" alt="image" src="https://github.com/user-attachments/assets/af677b1f-830a-4276-b152-8460bb1eef22" />
+<img width="371" height="762" alt="image" src="https://github.com/user-attachments/assets/abca73ed-9be2-4c22-a340-063a98c8b088" />
+<img width="366" height="752" alt="image" src="https://github.com/user-attachments/assets/17ba5684-17ba-4fab-b52e-c28de93f9669" />
+
+
+
+
+
+
+
+
+
